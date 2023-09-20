@@ -212,7 +212,7 @@ header .division{
 
 footer{
     font-family: "open sans";
-    background-color: #35d1aaa2;
+    background-color: rgb(220, 252, 242);
     padding: 60px 0 30px 0;
     margin: auto;
     overflow: hidden;
